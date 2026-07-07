@@ -13,11 +13,12 @@ I work at the intersection of business and data — framing real business proble
 | [Loan Risk Classification](https://github.com/tomasreche1/loan-risk-classification) | Logistic Regression | Credit-risk screening on 10,000 applications, handling severe class imbalance and target leakage |
 | [Tweet Sentiment Analysis](https://github.com/tomasreche1/tweet-sentiment-analysis-nltk) | Text Mining / NLP | End-to-end NLTK pipeline turning raw tweets into quantified sentiment scores with VADER |
 | [Bike-Share Weather Pipeline](https://github.com/tomasreche1/bikeshare-weather-pipeline) | Data Engineering (ETL) | Batch pipeline ingesting 415K+ trips from S3 + a weather API into a validated, dimensional DuckDB warehouse |
+| [Financial Planning Analyzer](https://github.com/tomasreche1/financial-planning-analyzer) | Finance / Simulation | Retirement plans stress-tested against 97 years of real market history — historical replay + Monte Carlo, with client-ready reports |
 
 ## 🛠️ Tools & Skills
 
 - **Languages & libraries:** Python · SQL · pandas · NumPy · scikit-learn · NLTK · DuckDB · Matplotlib · Seaborn
-- **Analytics & engineering:** supervised & unsupervised machine learning, text mining & sentiment analysis (NLP), ETL pipelines & data quality validation, dimensional data modeling, model evaluation (ROC-AUC, precision/recall), data cleaning & preparation
+- **Analytics & engineering:** supervised & unsupervised machine learning, text mining & sentiment analysis (NLP), ETL pipelines & data quality validation, dimensional data modeling, Monte Carlo simulation & financial projections, model evaluation (ROC-AUC, precision/recall), data cleaning & preparation
 - **Communication:** translating model output into business recommendations
 
 ## 📫 Get in Touch
